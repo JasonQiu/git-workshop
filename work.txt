@@ -1,5 +1,5 @@
 Today is Monday 25/11/2024 and I'm running a Git workshop.
-The Git workshop will be in Sandby at 14:00, covering Git, GitHub, GitHub Actions.
+The Git workshop will be in Sandby, the Mews at 14:00, covering Git, GitHub, GitHub Actions.
 26 people registered.
 
 Push the repo to GitHub.
